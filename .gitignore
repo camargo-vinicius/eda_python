@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # other files
-hello.py
+*hello.py
