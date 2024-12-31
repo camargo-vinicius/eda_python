@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# others
+dados/
+Projeto2-Perguntas.ipynb
+Projeto2-Respostas.ipynb
